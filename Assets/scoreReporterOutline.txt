@@ -33,4 +33,13 @@ Rankings
 Building Process
     Getting Information From Website
     Displaying Data
-        Structure of our app        
+        Structure of our app
+
+Minimum Viable Product
+    Long List of Tournaments (Date Organized)
+    Click on a tournament to see details
+
+    Require
+        database
+        iOS knowledge
+        web extraction
