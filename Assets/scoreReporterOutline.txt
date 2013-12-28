@@ -1,0 +1,36 @@
+Tournament Selection
+    Search
+    order by
+        date
+        location
+            shows on map
+            press on location shows all tournaments
+            get tournaments near current location
+        alph
+    upcoming
+    current
+    previous
+    type
+        open
+        mixed
+        women
+    division (possibilites to see entire)
+        club
+        youth
+        college
+
+Tournament details
+    Description
+    Map
+    Pools
+    Brackets
+
+Rankings
+    nuff said
+
+
+
+Building Process
+    Getting Information From Website
+    Displaying Data
+        Structure of our app        
