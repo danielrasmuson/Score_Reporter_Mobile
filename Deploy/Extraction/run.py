@@ -1,4 +1,3 @@
-# @todo if text does not contain a element will recieve error and program will crash
 from bs4 import BeautifulSoup
 
 def getSource(url):
@@ -51,7 +50,7 @@ class tournamentPageInfo():
         return str(self.map)
 
 # # Source from site
-sourceCode = getSource("http://scores.usaultimate.org/scores/#masters/tournament/12982")
+sourceCode = getSource("http://scores.usaultimate.org/scores/#college-womens/tournament/12237")
 
 # # Source from file
 # textFile = open("tests\\sourceCode.html","r")
