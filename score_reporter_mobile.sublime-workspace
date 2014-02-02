@@ -447,12 +447,8 @@
 		"selected_items":
 		[
 			[
-				"cal",
-				"Calculate"
-			],
-			[
-				"titl",
-				"Convert Case: Title Case"
+				"clos",
+				"Project: Close"
 			],
 			[
 				"close",
@@ -463,12 +459,24 @@
 				"File: Delete"
 			],
 			[
-				"upper",
-				"Convert Case: Upper Case"
-			],
-			[
 				"dle",
 				"File: Delete"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"cal",
+				"Calculate"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
 			],
 			[
 				"det",
@@ -637,10 +645,6 @@
 			[
 				"ja",
 				"Set Syntax: JavaScript"
-			],
-			[
-				"html",
-				"Snippet: html"
 			],
 			[
 				"case",
@@ -831,7 +835,7 @@
 				"SublimeREPL: Python - IPython"
 			]
 		],
-		"width": 386.0
+		"width": 362.0
 	},
 	"console":
 	{
@@ -854,6 +858,18 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Daniel/.android/avd/Android44.avd/config.ini",
+		"/C/Users/Daniel/.android/avd/Android44.ini",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/android/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/android/CrystalBall/gen/com/example/crystalball/BuildConfig.java",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/android/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.android.ide.eclipse.adt.prefs",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/android/CrystalBall/bin/classes.dex",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/android/MyFirstApp/res/values/strings.xml",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/android/MyFirstApp/AndroidManifest.xml",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/deploy/android/new.txt",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/index.html",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/deploy/index.html",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/index.html",
 		"/C/Users/Daniel/Desktop/delete.py",
 		"/C/Users/Daniel/Desktop/letterchallenge.py",
 		"/C/Users/Daniel/Desktop/learnTK1.py",
@@ -969,23 +985,11 @@
 		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/Deploy/css/enter.css",
 		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/Deploy/html/enter.html",
 		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/Deploy/js/header.js",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/Deploy/html/header.html",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/Asset/frozenage/index.html",
-		"/C/Users/Daniel/Desktop/TimeSheet/timeSheet.py",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/deploy/css/enter.css",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/deploy/html/enter.html",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/Deploy/css/donate.css",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/djangoTesting.py",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/deploy/css/aboutALS.css",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/Deploy/html/aboutALS.html",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/deploy/css/donate.css",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/Deploy/html/details.html",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/.gitignore",
-		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/deploy/html/details.html"
+		"/C/Users/Daniel/Documents/GitHub/ALS_Ultimate/Deploy/html/header.html"
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -1000,6 +1004,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"hello world",
+			"hello",
+			"print",
 			"+",
 			"phase1",
 			"L",
@@ -1124,10 +1131,7 @@
 			"shift",
 			"\"], \"c",
 			"\"], \"command",
-			"\"], \"command\":",
-			"ctrl",
-			"\"keys\": [\"",
-			"Frame"
+			"\"], \"command\":"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1168,7 +1172,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 36.0
 	},
 	"input":
 	{
@@ -1228,6 +1232,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"androi",
+				"Deploy\\android\\MyFirstApp\\AndroidManifest.xml"
+			],
 			[
 				"gui",
 				"guiWindow.py"
@@ -1504,6 +1512,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"math",
+				"C:\\Users\\Daniel\\Documents\\GitHub\\Math130_Automated\\math130_automation.sublime-project"
+			],
 			[
 				"st",
 				"C:\\Users\\Daniel\\Documents\\GitHub\\stratego_11-23\\Stratego2\\Stratego_Project.sublime-project"

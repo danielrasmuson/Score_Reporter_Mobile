@@ -2,6 +2,10 @@
 	"folders":
 	[
 		{
+			"file_exclude_patterns":
+			[
+				"score_reporter_mobile.sublime-project"
+			],
 			"follow_symlinks": true,
 			"path": "."
 		}
